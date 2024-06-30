@@ -302,3 +302,8 @@ div#archive {
   padding: 4px;
   border-radius: 4px;
 }
+
+.loading-img {
+  background: url(https://qjwbkk.top/img/tupian.jpg) no-repeat center center;
+  background-size: cover;
+}
